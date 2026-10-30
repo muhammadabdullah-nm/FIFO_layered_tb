@@ -35,4 +35,3 @@ The design under test (DUT) is a FIFO with write and read ports, plus `full` and
 | **Scoreboard**  | Compares DUT output against an expected-data model and reports results|
 | **Environment** | Instantiates and connects all components, controls the run phases     |
 | **Test**        | Top-level program that builds the environment and starts simulation   |
-Hub](https://github.com/muhammadabdullah-nm)
