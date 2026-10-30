@@ -1,0 +1,3 @@
+top.sv
+fifo.sv
+-access +rwc
